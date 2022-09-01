@@ -37,7 +37,7 @@ nav img{
 .nav-item{
     display: inline-block;
     margin: auto 30px;
-    font-size: 18px;
+    font-size: 1.2rem;
     font-weight: 200;
     color: #c8c6bf;
 }
@@ -52,7 +52,7 @@ nav img{
     width: 10%;
     padding: 10px 20px;
     border-radius: 8px;
-    font-size: 15px;
+    font-size: 1.2rem;
     color: #A08F36;
     font-weight: 500;
     position: absolute;
@@ -69,27 +69,25 @@ nav img{
 
 h1{
     width: 40%;
-    font-size: 80px;
+    font-size: 6rem;
     text-align: center;
     font-weight: 800;
     text-align: left;
     position: absolute;
     left: 120px;
-    top: 100px;
-    line-height: 90px;
+    top: 150px;
 }
 
 p{
     position: absolute;
     right: 180px;
-    top: 130px;
-    font-size: 25px;
+    top: 190px;
+    font-size: 2rem;
     text-align: center;
     font-weight: lighter;
     color: rgb(202, 195, 195);
-    width: 33%;
+    width: 35%;
     text-align: left;
-    line-height: 30px;
 }
 
 .footer{
@@ -105,63 +103,63 @@ p{
     position: absolute;
     display: inline-block;
     height: 100%;
-    width: 6%;
-    right: 92px;
+    width: 150px;
+    right: 150px;
 }
 .ft-btn2{
     background-color: #A08F36;
     position: absolute;
     display: inline-block;
     height: 100%;
-    width: 6%;
+    width: 150px;
     right: 0;
 }
  .btn-1{
-    width: 40px;
+    width: 80px;
+    height: 80px; 
     border-radius: 50%;
     border: 2px solid #A08F36;
-    height: 40px; 
     background-color: #39372D;
     position: absolute;
     bottom: 15px;
-    left: 25px;
+    left: 35px;
 }
 
 .btn-1::after{
     content: "";
-    height: 10px;
-    width: 10px;
+    height: 30px;
+    width: 30px;
     background-color: transparent;
     border: 2px solid #A08F36;
     border-right-color: transparent;
     border-bottom-color: transparent;
     transform: rotate(-45deg);
     position: absolute;
-    left: 15px;
-    top: 10px;
+    left: 25px;
+    top: 20px;
 }
 
 .btn-2{
-    width: 40px;
+    width: 80px;
+    height: 80px; 
     border-radius: 50%;
-    height: 40px; 
     background-color: #A08F36;
     border: 2px solid #fff;
     position: absolute;
     bottom: 15px;
-    left: 25px;
+    left: 35px;
 }
 
 .btn-2::after{
     content: "";
-    height: 10px;
-    width: 10px;
+    height: 30px;
+    width: 30px;
     background-color: transparent;
     border: 2px solid #fff;
     border-right-color: transparent;
     border-bottom-color: transparent;
     transform: rotate(135deg);
     position: absolute;
-    left: 8px;
-    top: 10px;
+    right: 30px;
+    top: 20px;
 }
