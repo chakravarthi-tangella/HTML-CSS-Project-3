@@ -15,7 +15,7 @@ I designed this page for `1920*1080` resolution.This design is not responsive.
 
 [![Badge](https://img.shields.io/badge/Project--Link-Law%20page-orange)](https://app.netlify.com/sites/chakravarthi-law-home-page)
 
-![](assets/2.png)
+![](images/3.png)
 
 ## Things I learned in this project
 
